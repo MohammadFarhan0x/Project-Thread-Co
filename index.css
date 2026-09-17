@@ -2087,6 +2087,10 @@ background-color: #16181E;
         padding: 40px;
     }
 
+    #best-sellers h2{
+        text-align: center;
+    }
+
     #why-threadco h2{
         text-align: center;
     }
